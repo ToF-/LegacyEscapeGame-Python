@@ -1,1 +1,1 @@
-LAGS_ORDER_FILE=../data/small.csv src/rent.py
+LAGS_ORDER_FILE=data/small.csv src/rent.py
